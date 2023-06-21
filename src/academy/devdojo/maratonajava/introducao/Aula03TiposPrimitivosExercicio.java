@@ -10,7 +10,7 @@ package academy.devdojo.maratonajava.introducao;
 
 public class Aula03TiposPrimitivosExercicio {
     public static void main (String[] args){
-        String nome = "Claydson Santana ";
+        String nome = "Claydson Santana";
         String endereco = "Rua Francisco Bento de Oliveira 78";
         double salario = 5000;
         String data = "27/05/2023";
