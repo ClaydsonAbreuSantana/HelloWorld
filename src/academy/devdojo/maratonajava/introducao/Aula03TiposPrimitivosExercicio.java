@@ -13,10 +13,10 @@ public class Aula03TiposPrimitivosExercicio {
         String nome = "Claydson Santana";
         String endereco = "Rua Francisco Bento de Oliveira 78";
         double salario = 5000;
-        String data = "27/05/2023";
-
-        System.out.println("Eu " + nome + ", morando no endereço "  + endereco + " " +
-                "confirmo que recebi o salario de R$ " + salario + ", na data " + data);
+        String dataRecebimentoSalario = "27/05/2023";
+        String relatorio = "Eu " + nome + ", morando no endereço "  + endereco + " " +
+                "confirmo que recebi o salario de R$ " + salario + ", na data " + dataRecebimentoSalario;
+        System.out.println(relatorio);
     }
 
 }
