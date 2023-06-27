@@ -12,7 +12,7 @@ public class Aula06EstruturaDeRepeticao04ExercicioBreak {
             if(valorParcela < 1000){
                 break;
             }
-            System.out.println("Parcela" + parcela + " R$ " + valorParcela );
+            System.out.println("Parcela " + parcela + " R$ " + valorParcela );
         }
     }
 }
